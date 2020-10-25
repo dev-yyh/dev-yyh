@@ -1,4 +1,14 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-yyh)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
+
+My name is YoungHo Yoon (a.k.a dev-yyh).
+
+- :computer: Backend engineer who loves database
+- 👍 I am developing distributed db.
+- ❤ I love learning new things and growing up. 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-yyh&show_icons=ture&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dev-yyh/dev-yyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
