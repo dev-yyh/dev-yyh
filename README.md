@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is YoungHo Yoon (a.k.a dev-yyh).
+My name is YoungHo Yoon.
 
 - :computer: Backend engineer who loves database
 - 👍 I am developing distributed db.
